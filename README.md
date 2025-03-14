@@ -1,0 +1,2 @@
+# FreyaAI
+Testing Local AI
